@@ -1,0 +1,15 @@
+Chennai|Tirupati|05/07/2023|16053 Chennai - Tirupati Express (14:15 - 17:45)|KVP Inn
+Chennai|Tirupati|06/07/2023|16203 Chennai - Tirupati Garudadri Express (16:30 - 20:25)|Republic Inn
+Chennai|Tirupati|05/07/2023|22158 Chennai - Mumbai CSMT Super Fast Express (06:20 - 09:15)|Hotel Springs
+Tirupati|Bangalore|05/07/2023|16220 Tirupati - Chamarajanagar Express (21:55 - 04:25)|Holiday Inn
+Tirupati|Bangalore|06/07/2023|12863 Howrah - Bengaluru SMVT Super Fast Express (00:50 - 05:51)|Hotel Urban Jade
+Tirupati|Bangalore|05/07/2023|17210 Kakinada - Bengaluru SVMT Seshadri Express (05:20 - 11:15)|Ibis City Centre
+Bangalore|Mysore|05/07/2023|12614 Bengaluru - Mysuru Wodeyar Super Fast Express (15:15 - 17:45)|Hotel Rio Meridian
+Bangalore|Mysore|06/07/2023|12007 Chennai - Mysuru Shatabdi Express (10:50 - 13:00)|Radisson Blu Plaza
+Bangalore|Mysore|05/07/2023|20607 Chennai - Mysuru Vande Bharat Express (10:20 - 12:20)|Hotel Grand Mercure
+Madurai|Kodaikanal|05/07/2023|16128 Guruvayur - Chennai Express (12:35 - 13:08)|Sunshine Resort
+Madurai|Kodaikanal|06/07/2023|16235 Tuticorin - Mysore Express (20:10 - 20:48)|Hotel Sterling Lake
+Madurai|Kodaikanal|05/07/2023|12638 Madurai - Chennai Pandiyan Super Fast Express (21:35 - 21:58)|Hotel Spring Valley
+Cochin|Alleppey|05/07/2023|16128 Guruvayur - Chennai Express (01:20 - 02:17)|Hotel Camelot
+Cochin|Alleppey|06/07/2023|16603 Mangaluru - Trivandrum Maveli Express (01:55 - 02:55)|Hotel Bonanza
+Cochin|Alleppey|05/07/2023|22207 Chennai - Trivandrum Super Fast Express (02:35 - 03:32)|Ramada Alleppey
